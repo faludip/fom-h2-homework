@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"hu.futureofmedia.task.contactsapi.controllers","l":"ContactPersonController"}];updateSearchResults();
